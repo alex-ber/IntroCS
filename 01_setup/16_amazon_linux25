@@ -1,0 +1,2 @@
+# Reload a Linux user's group assignments to docker w/o logout
+newgrp docker
