@@ -1,3 +1,5 @@
+print('_secret')
+print(__name__)
 import random as _random
 
 FIRST = _random.randint(1, 9)
