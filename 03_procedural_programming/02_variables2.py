@@ -1,0 +1,9 @@
+first=2
+second=3
+result=first+second
+print("The result of", end=' ')
+print(first, end=' ')
+print("+", end=' ')
+print(second, end=' ')
+print("is", end=' ')
+print(result, end=' ')
